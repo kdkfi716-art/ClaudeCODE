@@ -8,14 +8,6 @@ os.system("echo downloading 67.exe")
 os.system("echo WAIT RQ STAR ITS DOWNLOADING THE SNIPER")
 time.sleep(1)
 os.system("clear")
-print(r"""
-  ____            ____  _       
- |  _ \          |  _ \(_)      
- | |_) | _____  _| |_) |_ _ __  
- |  _ < / _ \ \/ /  _ <| | '_ \ 
- | |_) | (_) >  <| |_) | | | | |
- |____/ \___/_/\_\____/|_|_| |_|
-""")
 print("BOXBIN, Best BOOTER..")
 time.sleep(3)
 while True:
