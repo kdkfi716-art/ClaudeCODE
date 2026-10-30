@@ -8,7 +8,7 @@ os.system("echo downloading 67.exe")
 os.system("echo WAIT RQ STAR ITS DOWNLOADING THE SNIPER")
 time.sleep(1)
 os.system("clear")
-print("""
+print(r"""
   ____            ____  _       
  |  _ \          |  _ \(_)      
  | |_) | _____  _| |_) |_ _ __  
